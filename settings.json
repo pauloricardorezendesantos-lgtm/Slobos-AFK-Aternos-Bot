@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24h:7",
+    "username": "misterbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "starck.aternos.me",
-    "port": 33040,
+    "ip": "starck.exaroton.me",
+    "port": 46118,
     "version": "",
     "try-creative": false
   },
